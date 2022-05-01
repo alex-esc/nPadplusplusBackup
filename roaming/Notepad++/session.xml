@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="382" xOffset="0" scrollWidth="1" startPos="12037" endPos="12001" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\Alex\Documents\GitHub\setupesc\setupesc.ahk" backupFilePath="" originalFileLastModifTimestamp="841332289" originalFileLastModifTimestampHigh="30821365" mapFirstVisibleDisplayLine="390" mapFirstVisibleDocLine="382" mapLastVisibleDocLine="435" mapNbLine="53" mapHigherPos="11600" mapWidth="183" mapHeight="212" mapKByteInDoc="20" mapWrapIndentMode="1" mapIsWrap="yes" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="882" startPos="901" endPos="901" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\Alex\Documents\GitHub\setupesc\re-RE-write\setupesc-rewrite.ahk" backupFilePath="C:\Users\Alex\AppData\Roaming\Notepad++\backup\setupesc-rewrite.ahk@2022-04-30_200102" originalFileLastModifTimestamp="-620807813" originalFileLastModifTimestampHigh="30956790" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="53" mapNbLine="53" mapHigherPos="0" mapWidth="183" mapHeight="212" mapKByteInDoc="6" mapWrapIndentMode="1" mapIsWrap="yes" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

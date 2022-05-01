@@ -1,0 +1,28 @@
+<NotepadPlus>
+    <InternalCommands>
+        <Shortcut id="43044" Ctrl="no" Alt="no" Shift="no" Key="0" />
+    </InternalCommands>
+    <Macros>
+        <Macro name="Trim Trailing Space and Save" Ctrl="no" Alt="yes" Shift="yes" Key="83">
+            <Action type="2" message="0" wParam="42024" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="41006" lParam="0" sParam="" />
+        </Macro>
+        <Macro name="sub creator del" Ctrl="yes" Alt="yes" Shift="no" Key="67">
+            <Action type="0" message="2303" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2303" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2326" wParam="0" lParam="0" sParam="" />
+        </Macro>
+    </Macros>
+    <UserDefinedCommands>
+        <Command name="Get PHP help" Ctrl="no" Alt="yes" Shift="no" Key="112">https://www.php.net/$(CURRENT_WORD)</Command>
+        <Command name="Wikipedia Search" Ctrl="no" Alt="yes" Shift="no" Key="114">https://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
+        <Command name="Open file in another instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_FULL_FILE_PATH) $(CURRENT_WORD) -nosession -multiInst</Command>
+    </UserDefinedCommands>
+    <PluginCommands>
+        <PluginCommand moduleName="MarkdownViewerPlusPlus.dll" internalID="0" Ctrl="yes" Alt="no" Shift="no" Key="96" />
+        <PluginCommand moduleName="DSpellCheck.dll" internalID="3" Ctrl="yes" Alt="yes" Shift="no" Key="104" />
+        <PluginCommand moduleName="WindowManager.dll" internalID="1" Ctrl="yes" Alt="yes" Shift="no" Key="97" />
+        <PluginCommand moduleName="LuaScript.dll" internalID="4" Ctrl="yes" Alt="yes" Shift="no" Key="98" />
+    </PluginCommands>
+    <ScintillaKeys />
+</NotepadPlus>
